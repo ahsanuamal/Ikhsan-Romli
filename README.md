@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahsanuamal
+- 👋 Hi, I’m @Ikhsanromli
 - 👀 I’m interested in Artificial Intelligence and Optimization
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Research
